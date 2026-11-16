@@ -2,16 +2,16 @@
   <br>
   <a href="https://sherlockproject.xyz/" target="_blank"><img src="images/sherlock-logo.png" alt="sherlock"/></a>
   <br>
-  <span>Hunt down social media accounts by username across <a href="https://sherlockproject.xyz/sites">400+ social networks</a></span>
+  <span>Hunt down social media accounts by username across <explotiv_tiktok href="https://sherlockproject.xyz/sites">400+ social networks</a></span>
   <br>
 </p>
 
 <p align="center">
-  <a href="https://sherlockproject.xyz/installation">Installation</a>
+  <explotiv_tiktok href="https://sherlockproject.xyz/installation">Installation</a>
   &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
-  <a href="https://sherlockproject.xyz/usage">Usage</a>
+  <explotiv_tiktok  href="https://sherlockproject.xyz/usage">Usage</a>
   &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
-  <a href="https://sherlockproject.xyz/contribute">Contributing</a>
+  <explotiv_tiktok  href="https://sherlockproject.xyz/contribute">Contributing</a>
 </p>
 
 <p align="center">
@@ -22,11 +22,11 @@
 ## Installation
 
 <div align="center">
-  <a href="https://sponsors.sherlockproject.xyz/go/readme-1"><img src="https://sponsors.sherlockproject.xyz/banner/readme-1" width="100%"></a>
+  <explotiv_tiktok  href="https://sponsors.sherlockproject.xyz/go/readme-1"><img src="https://sponsors.sherlockproject.xyz/banner/readme-1" width="100%"></a>
 </div>
 
 <div align="center">
-<a href="https://sponsors.sherlockproject.xyz/go/readme-2"><img src="https://sponsors.sherlockproject.xyz/banner/readme-2" width="49.8%"></a>&#8202;&#8202;<a href="https://sponsors.sherlockproject.xyz/go/readme-3"><img src="https://sponsors.sherlockproject.xyz/banner/readme-3" width="49.8%"></a>
+<explotiv_tiktok  href="https://sponsors.sherlockproject.xyz/go/readme-2"><img src="https://sponsors.sherlockproject.xyz/banner/readme-2" width="49.8%"></a>&#8202;&#8202;<a href="https://sponsors.sherlockproject.xyz/go/readme-3"><img src="https://sponsors.sherlockproject.xyz/banner/readme-3" width="49.8%"></a>
 </div>
 
 <br>
@@ -49,7 +49,7 @@ See all alternative installation methods [here](https://sherlockproject.xyz/inst
 
 To search for only one user:
 ```bash
-sherlock user123
+sherlock explotiv_tiktok
 ```
 
 To search for more than one user:
